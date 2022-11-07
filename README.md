@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaiiaDeiko.   
+- 👋 Hi, I’m Maiia Deiko.   
 
 This is a repository that showcases my skills in Data Analytics
 
