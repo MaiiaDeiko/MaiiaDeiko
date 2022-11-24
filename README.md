@@ -7,7 +7,9 @@ I like to work with different technologies and platforms, here are my loved ones
 - Python   
 - SQL / postgreSQL / MySQL   
 - Tableau
+![2022-11-24_11-01-33](https://user-images.githubusercontent.com/108290252/203727578-3d7b6619-0f6b-4afe-b442-556744c210ab.png)
 
+![2022-11-24_11-02-13](https://user-images.githubusercontent.com/108290252/203727614-2b691d05-4f0c-4c06-a1a1-f703f6a06e57.png)
 
 
 # Мои проекты 2022
